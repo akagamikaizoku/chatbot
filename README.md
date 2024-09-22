@@ -1,5 +1,6 @@
 # chatbot
 
-Please Vsit the Link below
+Please Visit the Link below
 
-[Visit Here](https://gemini-ai-chatbot-gules-nu.vercel.app/)
+[![At Vercel](https://www.svgrepo.com/show/354513/vercel-icon.svg)](https://gemini-ai-chatbot-gules-nu.vercel.app/)
+
